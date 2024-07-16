@@ -43,4 +43,5 @@ public class TesteCampoTreinamento {
         Assert.assertTrue(driver.findElement(By.id("elementosForm:sexo:0")).isSelected());
 
     }
+    
 }
